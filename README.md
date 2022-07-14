@@ -1,4 +1,4 @@
-# HTML5 Forms Tutorial & Exercises
+ # HTML5 Forms Tutorial & Exercises
 <!-- hide -->
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/badge.png?raw=true"></a>
 
@@ -22,7 +22,7 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 
 4. GET vs POST.
 
-5. styling a form
+5. Styling a form.
 
 <!-- hide -->
 #### Before we start... other related tutorials
